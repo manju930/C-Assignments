@@ -1,0 +1,2 @@
+CREATE VIEW [dbo].drawTeams
+	AS SELECT * FROM FootBallLeague where Status = 'Draw';

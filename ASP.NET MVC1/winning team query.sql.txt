@@ -1,0 +1,1 @@
+select * from FootBallLeague where Status = 'Win'
